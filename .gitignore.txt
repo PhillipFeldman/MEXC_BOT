@@ -1,0 +1,7 @@
+myvenv
+output
+venv
+main.py
+MEXC_BOT.PY
+requests_test.py
+cookies.pkl
